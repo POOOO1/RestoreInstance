@@ -15,6 +15,9 @@
         android:text="Сохранить"
         android:onClick="saveName"/>
 
+
+
+
     <TextView
         android:id="@+id/nameView"
         android:layout_width="wrap_content"
